@@ -8,20 +8,20 @@ Design system desenvolvido durante o Ignite Lab da [Rocketseat](https://www.rock
 ### Instalando o projeto
 Comece clonando o repositório:
 
-> $ git clone https://github.com/divinityMaker/design-system-reactjs.git
+    $ git clone https://github.com/divinityMaker/design-system-reactjs.git
     
-> $ cd design-system
+    $ cd design-system
 
-> $ npm install
+    $ npm install
 
 ##### Iniciando o projeto
 Para rodar o projeto web
-> $ npm run dev
+    $ npm run dev
 
 ![website](https://i.imgur.com/8GDdbqo.png)
 
 Para rodar o Storybook
-> $ npm run storybook
+    $ npm run storybook
 
 [![storybook](https://i.imgur.com/lANHqbe.png)](https://divinitymaker.github.io/design-system-reactjs/?path=/story/components-button--default)
 
