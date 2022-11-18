@@ -16,11 +16,13 @@ Comece clonando o repositório:
 
 ##### Iniciando o projeto
 Para rodar o projeto web
+
     $ npm run dev
 
 ![website](https://i.imgur.com/8GDdbqo.png)
 
 Para rodar o Storybook
+
     $ npm run storybook
 
 [![storybook](https://i.imgur.com/lANHqbe.png)](https://divinitymaker.github.io/design-system-reactjs/?path=/story/components-button--default)
