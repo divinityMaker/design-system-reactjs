@@ -30,7 +30,6 @@ const TextInputInput: React.FC<TextInputInputProps> = (props) => {
 
 TextInputInput.displayName = "TextInput.Input";
 
-
 export const TextInput = {
   Root: TextInputRoot,
   Input: TextInputInput,
